@@ -212,13 +212,8 @@ For this run:
 - Interpretation caveat: this harness allows KPO first-capacity to be represented by NodeClaim growth, while CA uses benchmark node readiness growth; this should be kept explicit when presenting results.
 
 ## Key Artifacts
-- `artifacts/ca-vs-kpo-20260420T154619Z/run_manifest.json`
 - `artifacts/ca-vs-kpo-20260420T154619Z/comparison_report.md`
 - `artifacts/ca-vs-kpo-20260420T154619Z/reporting/scenario_timeline.csv`
 - `artifacts/ca-vs-kpo-20260420T154619Z/reporting/execution_matrix.csv`
 - `artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_burst.jsonl`
 - `artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_steady.jsonl`
-- `artifacts/ca-vs-kpo-20260420T154619Z/telemetry/oci_metrics.csv`
-- `artifacts/ca-vs-kpo-20260420T154619Z/telemetry/telemetry_collection_summary.json`
-- `artifacts/ca-vs-kpo-20260420T154619Z/kpi/kpi_summary.json`
-- `artifacts/ca-vs-kpo-20260420T154619Z/cleanup_summary.json`
