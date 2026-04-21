@@ -30,8 +30,5 @@
 !artifacts/ca-vs-kpo-20260420T154619Z/scenario_execution_steady_summary.json
 
 
-
-
-
-
+# Do not track this specific file
 artifacts/ca-vs-kpo-20260420T154619Z/kpi/kpi_summary.json
