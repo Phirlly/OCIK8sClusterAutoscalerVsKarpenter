@@ -22,4 +22,16 @@
 !artifacts/ca-vs-kpo-20260420T154619Z/reporting
 !artifacts/ca-vs-kpo-20260420T154619Z/reporting/**
 
+
+# Track this specific file
+!artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_burst.jsonl
+!artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_steady.jsonl
+!artifacts/ca-vs-kpo-20260420T154619Z/scenario_execution_burst_summary.json
+!artifacts/ca-vs-kpo-20260420T154619Z/scenario_execution_steady_summary.json
+
+
+
+
+
+
 artifacts/ca-vs-kpo-20260420T154619Z/kpi/kpi_summary.json
