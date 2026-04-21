@@ -7,6 +7,19 @@
 
 # Keep Jupyter notebooks anywhere in the repo
 !*.ipynb
+!*.md
 
 # Keep the ignore file itself tracked
 !.gitignore
+
+# Track this specific folder (all file types inside it)
+!artifacts/ca-vs-kpo-20260420T154619Z/kpi
+!artifacts/ca-vs-kpo-20260420T154619Z/kpi/**
+
+!artifacts/ca-vs-kpo-20260420T154619Z/rendered/workload
+!artifacts/ca-vs-kpo-20260420T154619Z/rendered/workload/**
+
+!artifacts/ca-vs-kpo-20260420T154619Z/reporting
+!artifacts/ca-vs-kpo-20260420T154619Z/reporting/**
+
+artifacts/ca-vs-kpo-20260420T154619Z/kpi/kpi_summary.json
