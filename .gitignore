@@ -25,7 +25,6 @@
 !vendor
 !vendor/**
 
-
 # Track this specific file
 !artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_burst.jsonl
 !artifacts/ca-vs-kpo-20260420T154619Z/scenario_events_steady.jsonl
@@ -35,4 +34,10 @@
 
 # Do not track this specific file
 artifacts/ca-vs-kpo-20260420T154619Z/kpi/kpi_summary.json
-docs/
+docs/**
+
+# Keep only the local KPO Helm chart path needed by notebook Cell 8.
+!docs/
+!docs/karpenter-provider-oci/
+!docs/karpenter-provider-oci/chart/
+!docs/karpenter-provider-oci/chart/**
