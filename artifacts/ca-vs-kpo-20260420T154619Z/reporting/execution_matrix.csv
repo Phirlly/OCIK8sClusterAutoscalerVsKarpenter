@@ -1,5 +1,0 @@
-profile,target,repeats,up_replicas,down_replicas,hold_seconds,pending_timeout_seconds,ready_timeout_seconds,scale_down_timeout_seconds
-burst,ca,3,20,0,120,300,1800,1800
-burst,kpo,3,20,0,120,300,1800,1800
-steady,ca,3,8,0,300,300,1800,1800
-steady,kpo,3,8,0,300,300,1800,1800
